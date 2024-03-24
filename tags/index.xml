@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on www.lkpa.uk</title>
-    <link>https://www.lkpa.uk/tags/</link>
-    <description>Recent content in Tags on www.lkpa.uk</description>
+    <title>Tags on lkpa.uk</title>
+    <link>https://lkpa.uk/tags/</link>
+    <description>Recent content in Tags on lkpa.uk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <atom:link href="https://www.lkpa.uk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lkpa.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Events</title>
-      <link>https://www.lkpa.uk/tags/events/</link>
+      <link>https://lkpa.uk/tags/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.lkpa.uk/tags/events/</guid>
+      <guid>https://lkpa.uk/tags/events/</guid>
       <description></description>
     </item>
     <item>
       <title>Fund Raising</title>
-      <link>https://www.lkpa.uk/tags/fund-raising/</link>
+      <link>https://lkpa.uk/tags/fund-raising/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.lkpa.uk/tags/fund-raising/</guid>
+      <guid>https://lkpa.uk/tags/fund-raising/</guid>
       <description></description>
     </item>
     <item>
       <title>Grants</title>
-      <link>https://www.lkpa.uk/tags/grants/</link>
+      <link>https://lkpa.uk/tags/grants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.lkpa.uk/tags/grants/</guid>
+      <guid>https://lkpa.uk/tags/grants/</guid>
       <description></description>
     </item>
     <item>
       <title>Skegness</title>
-      <link>https://www.lkpa.uk/tags/skegness/</link>
+      <link>https://lkpa.uk/tags/skegness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.lkpa.uk/tags/skegness/</guid>
+      <guid>https://lkpa.uk/tags/skegness/</guid>
       <description></description>
     </item>
     <item>
       <title>Volunteer</title>
-      <link>https://www.lkpa.uk/tags/volunteer/</link>
+      <link>https://lkpa.uk/tags/volunteer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.lkpa.uk/tags/volunteer/</guid>
+      <guid>https://lkpa.uk/tags/volunteer/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Grants on www.lkpa.uk</title>
-    <link>https://www.lkpa.uk/tags/grants/</link>
-    <description>Recent content in Grants on www.lkpa.uk</description>
+    <title>Grants on lkpa.uk</title>
+    <link>https://lkpa.uk/tags/grants/</link>
+    <description>Recent content in Grants on lkpa.uk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <atom:link href="https://www.lkpa.uk/tags/grants/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lkpa.uk/tags/grants/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grants</title>
-      <link>https://www.lkpa.uk/post/grants/</link>
+      <link>https://lkpa.uk/post/grants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.lkpa.uk/post/grants/</guid>
+      <guid>https://lkpa.uk/post/grants/</guid>
       <description>Where possible we try to provide an allocation of small grants for basic needs for our most vulnerable members. We recognise that these small acts of kindness can go along way to helping our members cope with their day-to-day challenges.&#xA;Grant applications are considered by our trustees on individual merit. The applicant’s details are confidential will be known only to the Trustees of Leicestershire Kidney Patients Association. Items to assist with dialysis such as drip stands are to be supported by a renal doctor or nurse.</description>
     </item>
   </channel>

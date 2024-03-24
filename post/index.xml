@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on www.lkpa.uk</title>
-    <link>https://www.lkpa.uk/post/</link>
-    <description>Recent content in Posts on www.lkpa.uk</description>
+    <title>Posts on lkpa.uk</title>
+    <link>https://lkpa.uk/post/</link>
+    <description>Recent content in Posts on lkpa.uk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.lkpa.uk/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lkpa.uk/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Donate</title>
-      <link>https://www.lkpa.uk/post/donations/</link>
+      <link>https://lkpa.uk/post/donations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.lkpa.uk/post/donations/</guid>
+      <guid>https://lkpa.uk/post/donations/</guid>
       <description>Please Donate In most cases kidney disease will directly impact the rest of a person’s life. This can take its toll both physically and emotionally, inevitably individuals, their families and carers may need the support of charities such as the LKPA, which is run entirely by volunteers.&#xA;Money raised is used to provide welfare assistance for patients and small grants.&#xA;All donations are greatly appreciated and help us to continue to provide support and guidance throughout this uncertain time.</description>
     </item>
     <item>
       <title>Events</title>
-      <link>https://www.lkpa.uk/post/events/</link>
+      <link>https://lkpa.uk/post/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.lkpa.uk/post/events/</guid>
+      <guid>https://lkpa.uk/post/events/</guid>
       <description>Social contact is important for mental health and wellbeing, we hold events throughout the year for patients and their family members why not come along and join us.&#xA;We try to arrange a variety of events to suit different tastes and interests.&#xA;Do you look good in Purple? Join us!</description>
     </item>
     <item>
       <title>Fund Raising</title>
-      <link>https://www.lkpa.uk/post/fundraising/</link>
+      <link>https://lkpa.uk/post/fundraising/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.lkpa.uk/post/fundraising/</guid>
+      <guid>https://lkpa.uk/post/fundraising/</guid>
       <description>Fund raisers are both a fun and essential part of what we do&amp;hellip;</description>
     </item>
     <item>
       <title>Grants</title>
-      <link>https://www.lkpa.uk/post/grants/</link>
+      <link>https://lkpa.uk/post/grants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.lkpa.uk/post/grants/</guid>
+      <guid>https://lkpa.uk/post/grants/</guid>
       <description>Where possible we try to provide an allocation of small grants for basic needs for our most vulnerable members. We recognise that these small acts of kindness can go along way to helping our members cope with their day-to-day challenges.&#xA;Grant applications are considered by our trustees on individual merit. The applicant’s details are confidential will be known only to the Trustees of Leicestershire Kidney Patients Association. Items to assist with dialysis such as drip stands are to be supported by a renal doctor or nurse.</description>
     </item>
     <item>
       <title>Volunteer</title>
-      <link>https://www.lkpa.uk/post/volunteer/</link>
+      <link>https://lkpa.uk/post/volunteer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.lkpa.uk/post/volunteer/</guid>
+      <guid>https://lkpa.uk/post/volunteer/</guid>
       <description>We are always looking for new volunteers to join the LKPA, if you have a little spare time to help us keep the LKPA going, then please get in contact with us.&#xA;Don&amp;rsquo;t worry, we won&amp;rsquo;t make you wear the bear costume!</description>
     </item>
   </channel>
