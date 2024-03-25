@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /
+
+Sitemap: https://lkpa.uk/sitemap.xml
