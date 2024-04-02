@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Skegness on lkpa.uk</title>
-    <link>https://lkpa.uk/tags/skegness/</link>
-    <description>Recent content in Skegness on lkpa.uk</description>
+    <title>Dinner on lkpa.uk</title>
+    <link>https://lkpa.uk/tags/dinner/</link>
+    <description>Recent content in Dinner on lkpa.uk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 01 Apr 2024 10:58:08 -0400</lastBuildDate>
-    <atom:link href="https://lkpa.uk/tags/skegness/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lkpa.uk/tags/dinner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Upcoming Events</title>
       <link>https://lkpa.uk/post/upcoming-events/</link>
       <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
       <guid>https://lkpa.uk/post/upcoming-events/</guid>
       <description>SKEGNESS COACH TRIP Sunday 12th May 2024&#xA;We are happy to announce the return of our popular Skegness coach trip!&#xA;Departs: Leicester General Hospital @08:00 (Free Parking)&#xA;Returns: Leaving Skegness @17:00&#xA;Tickets are available on a first-come, first-served basis at the bargain cost of just £15 per person. Renal patients will get refunded on the day.&#xA;For bookings contact: Ann 07702 703 882 or Claire 07702 703 873</description>
-    </item>
-    <item>
-      <title>Events</title>
-      <link>https://lkpa.uk/post/events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lkpa.uk/post/events/</guid>
-      <description>Social contact is important for mental health and wellbeing, we hold events throughout the year for patients and their family members why not come along and join us.&#xA;We try to arrange a variety of events to suit different tastes and interests.&#xA;Do you look good in Purple? Join us!</description>
     </item>
   </channel>
 </rss>
