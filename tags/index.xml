@@ -9,20 +9,6 @@
     <lastBuildDate>Mon, 01 Apr 2024 10:58:08 -0400</lastBuildDate>
     <atom:link href="https://lkpa.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bears</title>
-      <link>https://lkpa.uk/tags/bears/</link>
-      <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
-      <guid>https://lkpa.uk/tags/bears/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dinner</title>
-      <link>https://lkpa.uk/tags/dinner/</link>
-      <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
-      <guid>https://lkpa.uk/tags/dinner/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Events</title>
       <link>https://lkpa.uk/tags/events/</link>
       <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
@@ -30,10 +16,24 @@
       <description></description>
     </item>
     <item>
-      <title>Photos</title>
-      <link>https://lkpa.uk/tags/photos/</link>
+      <title>Road Trip</title>
+      <link>https://lkpa.uk/tags/road-trip/</link>
       <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
-      <guid>https://lkpa.uk/tags/photos/</guid>
+      <guid>https://lkpa.uk/tags/road-trip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sand</title>
+      <link>https://lkpa.uk/tags/sand/</link>
+      <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>https://lkpa.uk/tags/sand/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sea</title>
+      <link>https://lkpa.uk/tags/sea/</link>
+      <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>https://lkpa.uk/tags/sea/</guid>
       <description></description>
     </item>
     <item>
@@ -41,6 +41,13 @@
       <link>https://lkpa.uk/tags/skegness/</link>
       <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
       <guid>https://lkpa.uk/tags/skegness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sun</title>
+      <link>https://lkpa.uk/tags/sun/</link>
+      <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>https://lkpa.uk/tags/sun/</guid>
       <description></description>
     </item>
     <item>
