@@ -1,68 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on lkpa.uk</title>
-    <link>https://lkpa.uk/post/</link>
-    <description>Recent content in Posts on lkpa.uk</description>
-    <generator>Hugo</generator>
-    <language>en-uk</language>
-    <lastBuildDate>Mon, 01 Apr 2024 10:58:08 -0400</lastBuildDate>
-    <atom:link href="https://lkpa.uk/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Upcoming Events</title>
-      <link>https://lkpa.uk/post/upcoming-events/</link>
-      <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
-      <guid>https://lkpa.uk/post/upcoming-events/</guid>
-      <description>SKEGNESS COACH TRIP `24 Sunday 12th May 2024&#xA;We are happy to announce the return of our popular Skegness coach trip on Sunday 12th May 2024!&#xA;Departs: Leicester General Hospital @08:00 (Free Parking)&#xA;Returns: Leaving Skegness @17:00&#xA;Tickets are available on a first-come, first-served basis at the bargain price of just £15 per person. Renal patients will get refunded on the day.&#xA;Be sure to bring your Sun Screen as Claire has also booked the weather!</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://lkpa.uk/post/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lkpa.uk/post/about/</guid>
-      <description>Registered Charity Number: 505795 LKPA Aims and Main Activities&#xA;The LKPA aims to assist its members through provision of support and guidance via telephone, email, and our website; allocation of small grants for basic needs; helping to organise educational sessions; organising social events and outings (recognising that some LKPA members are unable to drive, may feel isolated or anxious about being in company/travelling because of the restrictions that their condition puts upon them).</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>https://lkpa.uk/post/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lkpa.uk/post/contact/</guid>
-      <description>Help &amp;amp; Advice&#xA;If you have any questions regarding the LKPA, how it can support you, or how you can get involved we&amp;rsquo;d be pleased to hear from you.&#xA;When contacting us please consider that we do not offer medical advice, for that you should contact your GP, Renal Unit, or A&amp;amp;E Department.&#xA;Follow us on the facebook: https://www.facebook.com/groups/1215708825220886/ email: leicLKPA@gmail.com Phone 07702 703882&#xA;Useful Links to Other Related External Websites</description>
-    </item>
-    <item>
-      <title>Donate</title>
-      <link>https://lkpa.uk/post/donations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lkpa.uk/post/donations/</guid>
-      <description>In most cases kidney disease will directly impact the rest of a person’s life. This can take its toll both physically and emotionally, inevitably individuals, their families and carers may need the support of charities such as the LKPA, which is run entirely by volunteers.&#xA;Money raised is used to provide welfare assistance for patients, member events and small grants.&#xA;All donations are greatly appreciated and help us to continue to provide support and guidance throughout this uncertain time.</description>
-    </item>
-    <item>
-      <title>Fund Raising</title>
-      <link>https://lkpa.uk/post/fundraising/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lkpa.uk/post/fundraising/</guid>
-      <description>Cakes from the LKPA charity cake stand are 100% guilt free! Fund raisers are both a fun and essential part of what we do&amp;hellip;</description>
-    </item>
-    <item>
-      <title>Grants</title>
-      <link>https://lkpa.uk/post/grants/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lkpa.uk/post/grants/</guid>
-      <description>Where possible, we try to provide an allocation of small grants for basic needs for our most vulnerable members. We recognise that these small acts of kindness can go a long way to helping our members cope with their day-to-day challenges.&#xA;Grant applications are considered by our trustees on individual merit. The applicant’s details are confidential will be known only to the Trustees of Leicestershire Kidney Patients Association. Items to assist with dialysis such as drip stands are to be supported by a renal doctor or nurse.</description>
-    </item>
-    <item>
-      <title>Previous Events</title>
-      <link>https://lkpa.uk/post/events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lkpa.uk/post/events/</guid>
-      <description>Social contact is important for mental health and wellbeing, we hold events throughout the year for patients and their family members why not come along and join us.&#xA;We try to arrange a variety of events to suit different tastes and interests.&#xA;Do you look good in Purple? Join us!</description>
-    </item>
-    <item>
-      <title>Volunteer</title>
-      <link>https://lkpa.uk/post/volunteer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lkpa.uk/post/volunteer/</guid>
-      <description>We are always looking for new volunteers to join the LKPA, if you have a little spare time to help us keep the LKPA going, then please get in contact with us.&#xA;Don&amp;rsquo;t worry, we won&amp;rsquo;t make you wear the bear costume!</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on lkpa.uk</title><link>https://lkpa.uk/post/</link><description>Recent content in Posts on lkpa.uk</description><generator>Hugo</generator><language>en-uk</language><lastBuildDate>Mon, 01 Apr 2024 10:58:08 -0400</lastBuildDate><atom:link href="https://lkpa.uk/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Upcoming Events</title><link>https://lkpa.uk/post/upcoming-events/</link><pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate><guid>https://lkpa.uk/post/upcoming-events/</guid><description>SKEGNESS COACH TRIP `24 Sunday 12th May 2024
+We are happy to announce the return of our popular Skegness coach trip on Sunday 12th May 2024!
+Departs: Leicester General Hospital @08:00 (Free Parking)
+Returns: Leaving Skegness @17:00
+Tickets are available on a first-come, first-served basis at the bargain price of just £15 per person. Renal patients will get refunded on the day.
+Be sure to bring your Sun Screen as Claire has also booked the weather!</description></item><item><title>About</title><link>https://lkpa.uk/post/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lkpa.uk/post/about/</guid><description>Registered Charity Number: 505795 LKPA Aims and Main Activities
+The LKPA aims to assist its members through provision of support and guidance via telephone, email, and our website; allocation of small grants for basic needs; helping to organise educational sessions; organising social events and outings (recognising that some LKPA members are unable to drive, may feel isolated or anxious about being in company/travelling because of the restrictions that their condition puts upon them).</description></item><item><title>Contact</title><link>https://lkpa.uk/post/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lkpa.uk/post/contact/</guid><description>Help &amp;amp; Advice
+If you have any questions regarding the LKPA, how it can support you, or how you can get involved we&amp;rsquo;d be pleased to hear from you.
+When contacting us please consider that we do not offer medical advice, for that you should contact your GP, Renal Unit, or A&amp;amp;E Department.
+Follow us on the facebook: https://www.facebook.com/groups/1215708825220886/ email: leicLKPA@gmail.com Phone 07702 703882
+Useful Links to Other Related External Websites</description></item><item><title>Donate</title><link>https://lkpa.uk/post/donations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lkpa.uk/post/donations/</guid><description>In most cases kidney disease will directly impact the rest of a person’s life. This can take its toll both physically and emotionally, inevitably individuals, their families and carers may need the support of charities such as the LKPA, which is run entirely by volunteers.
+Money raised is used to provide welfare assistance for patients, member events and small grants.
+All donations are greatly appreciated and help us to continue to provide support and guidance throughout this uncertain time.</description></item><item><title>Fund Raising</title><link>https://lkpa.uk/post/fundraising/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lkpa.uk/post/fundraising/</guid><description>Cakes from the LKPA charity cake stand are 100% guilt free! Fund raisers are both a fun and essential part of what we do&amp;hellip;</description></item><item><title>Grants</title><link>https://lkpa.uk/post/grants/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lkpa.uk/post/grants/</guid><description>Where possible, we try to provide an allocation of small grants for basic needs for our most vulnerable members. We recognise that these small acts of kindness can go a long way to helping our members cope with their day-to-day challenges.
+Grant applications are considered by our trustees on individual merit. The applicant’s details are confidential will be known only to the Trustees of Leicestershire Kidney Patients Association. Items to assist with dialysis such as drip stands are to be supported by a renal doctor or nurse.</description></item><item><title>Previous Events</title><link>https://lkpa.uk/post/events/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lkpa.uk/post/events/</guid><description>Social contact is important for mental health and wellbeing, we hold events throughout the year for patients and their family members why not come along and join us.
+We try to arrange a variety of events to suit different tastes and interests.
+Do you look good in Purple? Join us!</description></item><item><title>Volunteer</title><link>https://lkpa.uk/post/volunteer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lkpa.uk/post/volunteer/</guid><description>We are always looking for new volunteers to join the LKPA, if you have a little spare time to help us keep the LKPA going, then please get in contact with us.
+Don&amp;rsquo;t worry, we won&amp;rsquo;t make you wear the bear costume!</description></item></channel></rss>
